@@ -28,7 +28,7 @@ AccessibilityEngine = function(jsonParameters) {
 		// Configure rules to run
 		if (jsonParameters.rulesToRun == null) {
 			jsonParameters.rulesToRun = [];
-			jsonParameters.rulesToRun[0] = "H42 Heading Hierarchy";
+			jsonParameters.rulesToRun[0] = "Harshit";
 			jsonParameters.rulesToRun[1] = "H44 Input Tag Label";
 			jsonParameters.rulesToRun[2] = "H32 Form Submit Button";
 			jsonParameters.rulesToRun[3] = "H37 Image Tag Alt Attribute";
