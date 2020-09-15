@@ -16,7 +16,7 @@
 // limitations under the License.
 //////////////////////////////////////////////////////////////////////////
 
-CustomRulesetImportJSURL = "https://raw.githubusercontent.com/eBay/accessibility-ruleset-runner/master/rulesets/custom.ruleset.1.1.33.js";
+CustomRulesetImportJSURL = "https://raw.githubusercontent.com/hbbadiyani/accessibility-ruleset-runner/master/rulesets/custom.ruleset.1.1.33.js";
 AXERulesetImportJSURL = "https://raw.githubusercontent.com/eBay/accessibility-ruleset-runner/master/rulesets/aXe.ruleset.3.4.0.js";
 
 RulesetRunner=function() {
